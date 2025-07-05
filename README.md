@@ -14,21 +14,14 @@
 
 #### Functions:
 - `f₁(x, y) = 1 / (1 + x² + y²)`
-- `f₂(x, y) = (x²y²) / (1 + x² + y²)`
+- `f₂(x, y) = (x²-y²) / (1 + x² + y²)`
 - `f₃(x, y) = (xy) / (x² + y² + 1)`
 
 #### Goals:
 - Find all stationary points and analyze the definiteness of the Hessian.
 - Identify local minima, maxima and saddle points.
-- Implement and compare optimization methods:
-  - Gradient Descent
-  - Newton’s Method
-  - Inexact Newton Method
-  - Quasi-Newton (BFGS)
-- Plot:
-  - Gradient norm vs iteration
-  - 3D surface plots
-  - Contour plots with method iteration paths
+- Implement and compare optimization methods: Gradient Descent, Newton’s Method, Inexact Newton Method and Quasi-Newton (BFGS)
+- Plot: Gradient norm vs iteration, 3D surface plots, Contour plots with method iteration paths
 
 ---
 
