@@ -2,11 +2,11 @@
 
 ## 📁 Project Structure
 
-- `I/` – **Unconstrained Optimization**: Analysis of stationary points, optimization methods and visualization.
+- `I` – **Unconstrained Optimization**: Analysis of stationary points, optimization methods and visualization.
   
-- `II/` – **Constrained Optimization**: Solving problems with constraints using KKT conditions and the projected gradient method.
+- `II` – **Constrained Optimization**: Solving problems with constraints using KKT conditions and the projected gradient method.
   
-- `III/` – **Nonlinear Least Squares**: Regression using Gauss-Newton and Levenberg-Marquardt methods.
+- `III` – **Nonlinear Least Squares**: Regression using Gauss-Newton and Levenberg-Marquardt methods.
 
 ## 🧾 Task Breakdown
 
