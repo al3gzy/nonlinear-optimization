@@ -1,7 +1,5 @@
 # Nonlinear Optimization 
 
-## 🧾 Task Breakdown
-
 ### (I) Unconstrained Optimization
 
 #### Functions:
